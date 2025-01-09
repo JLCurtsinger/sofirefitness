@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A fitness website built with Bolt.new.",
   "scripts": {
-    "build": "bolt build"
+    "build": "vite build"
   },
   "dependencies": {},
   "devDependencies": {},
-  "author": "Your Name",
+  "author": "Justin Curtsinger",
   "license": "Proprietary"
 }
